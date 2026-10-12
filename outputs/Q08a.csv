@@ -1,0 +1,229 @@
+﻿id_employe,nom,prenom,poste,nom_departement,nb_evals_valides,score_moyen,taux_objectifs_pct,categorie_performance
+1427,Nom_1427,Prenom_1427,Developpeur,Finance,4,58.25,50.0,faible
+966,Nom_966,Prenom_966,Finance,Service Client,4,59.75,100.0,faible
+689,Nom_689,Prenom_689,Developpeur,Direction Générale,5,60.8,60.0,faible
+1445,Nom_1445,Prenom_1445,Analyste,Ventes,8,61.25,62.5,faible
+95,Nom_95,Prenom_95,RH,Data & Analytics,4,62.0,50.0,faible
+389,Nom_389,Prenom_389,Finance,Informatique,5,62.2,60.0,faible
+100,Nom_100,Prenom_100,Developpeur,Informatique,4,62.25,50.0,faible
+1141,Nom_1141,Prenom_1141,Finance,Direction Générale,7,62.43,28.6,faible
+582,Nom_582,Prenom_582,RH,Informatique,10,62.5,40.0,faible
+1171,Nom_1171,Prenom_1171,Manager,Juridique,9,62.78,55.6,faible
+31,Nom_31,Prenom_31,Developpeur,Ventes,12,63.25,41.7,faible
+39,Nom_39,Prenom_39,Finance,Opérations,12,63.83,41.7,faible
+1179,Nom_1179,Prenom_1179,Finance,Ressources Humaines,8,63.88,62.5,faible
+141,Nom_141,Prenom_141,Finance,Informatique,12,63.92,58.3,faible
+445,Nom_445,Prenom_445,Finance,Ventes,4,64.0,25.0,faible
+985,Nom_985,Prenom_985,Manager,Marketing,12,64.08,41.7,faible
+237,Nom_237,Prenom_237,Developpeur,Ventes,5,64.2,40.0,faible
+265,Nom_265,Prenom_265,Analyste,Marketing,5,64.2,80.0,faible
+1062,Nom_1062,Prenom_1062,Developpeur,Data & Analytics,12,64.25,41.7,faible
+1094,Nom_1094,Prenom_1094,Manager,Marketing,12,64.33,41.7,faible
+770,Nom_770,Prenom_770,Manager,Ventes,8,64.38,50.0,faible
+144,Nom_144,Prenom_144,Manager,Juridique,6,64.5,33.3,faible
+167,Nom_167,Prenom_167,Finance,Marketing,6,64.5,66.7,faible
+542,Nom_542,Prenom_542,Manager,Service Client,6,64.5,50.0,faible
+410,Nom_410,Prenom_410,Finance,Informatique,7,64.57,28.6,faible
+428,Nom_428,Prenom_428,Finance,Ventes,12,64.67,58.3,faible
+1451,Nom_1451,Prenom_1451,Analyste,Finance,12,64.67,58.3,faible
+1138,Nom_1138,Prenom_1138,Developpeur,Finance,9,64.89,0.0,faible
+443,Nom_443,Prenom_443,Developpeur,Direction Générale,12,64.92,91.7,faible
+189,Nom_189,Prenom_189,Manager,Marketing,5,65.0,20.0,faible
+1367,Nom_1367,Prenom_1367,Finance,Ressources Humaines,11,65.18,54.5,faible
+667,Nom_667,Prenom_667,Analyste,Service Client,5,65.4,40.0,faible
+1232,Nom_1232,Prenom_1232,RH,Informatique,12,65.42,83.3,faible
+849,Nom_849,Prenom_849,Manager,Marketing,8,65.5,75.0,faible
+1089,Nom_1089,Prenom_1089,RH,Marketing,12,65.5,66.7,faible
+1288,Nom_1288,Prenom_1288,RH,Service Client,12,65.5,58.3,faible
+971,Nom_971,Prenom_971,Finance,Ressources Humaines,6,65.67,50.0,faible
+749,Nom_749,Prenom_749,Finance,Opérations,12,65.75,33.3,faible
+1301,Nom_1301,Prenom_1301,Manager,Service Client,4,65.75,50.0,faible
+1306,Nom_1306,Prenom_1306,Manager,Data & Analytics,9,65.78,22.2,faible
+1313,Nom_1313,Prenom_1313,Analyste,Ventes,12,65.83,50.0,faible
+1315,Nom_1315,Prenom_1315,Finance,Ventes,12,65.83,75.0,faible
+1421,Nom_1421,Prenom_1421,Analyste,Direction Générale,12,65.83,33.3,faible
+1477,Nom_1477,Prenom_1477,Developpeur,Direction Générale,7,65.86,42.9,faible
+945,Nom_945,Prenom_945,Developpeur,Opérations,8,65.88,50.0,faible
+1,Nom_1,Prenom_1,Analyste,Juridique,12,65.92,75.0,faible
+447,Nom_447,Prenom_447,RH,Ressources Humaines,12,65.92,66.7,faible
+1073,Nom_1073,Prenom_1073,Manager,Marketing,12,65.92,16.7,faible
+68,Nom_68,Prenom_68,Developpeur,Ressources Humaines,8,66.0,75.0,faible
+184,Nom_184,Prenom_184,Developpeur,Informatique,10,66.0,60.0,faible
+593,Nom_593,Prenom_593,Manager,Ressources Humaines,12,66.0,41.7,faible
+1334,Nom_1334,Prenom_1334,Developpeur,Ventes,12,66.0,50.0,faible
+409,Nom_409,Prenom_409,Finance,Ventes,12,66.17,41.7,faible
+794,Nom_794,Prenom_794,Developpeur,Opérations,4,66.25,75.0,faible
+1208,Nom_1208,Prenom_1208,Finance,Marketing,12,66.25,66.7,faible
+1218,Nom_1218,Prenom_1218,Finance,Finance,12,66.25,33.3,faible
+1448,Nom_1448,Prenom_1448,RH,Ressources Humaines,11,66.27,81.8,faible
+853,Nom_853,Prenom_853,RH,Juridique,7,66.29,57.1,faible
+382,Nom_382,Prenom_382,RH,Marketing,12,66.33,41.7,faible
+472,Nom_472,Prenom_472,Developpeur,Ventes,12,66.33,25.0,faible
+1392,Nom_1392,Prenom_1392,RH,Ventes,12,66.33,50.0,faible
+495,Nom_495,Prenom_495,Manager,Informatique,5,66.4,40.0,faible
+755,Nom_755,Prenom_755,Finance,Marketing,12,66.42,50.0,faible
+366,Nom_366,Prenom_366,RH,Service Client,4,66.5,25.0,faible
+1117,Nom_1117,Prenom_1117,Analyste,Marketing,9,66.56,77.8,faible
+1184,Nom_1184,Prenom_1184,Analyste,Direction Générale,7,66.57,57.1,faible
+153,Nom_153,Prenom_153,RH,Direction Générale,12,66.58,33.3,faible
+470,Nom_470,Prenom_470,Manager,Data & Analytics,12,66.58,50.0,faible
+183,Nom_183,Prenom_183,Manager,Service Client,5,66.6,40.0,faible
+822,Nom_822,Prenom_822,Manager,Ressources Humaines,10,66.6,60.0,faible
+626,Nom_626,Prenom_626,Developpeur,Ressources Humaines,12,66.67,41.7,faible
+1331,Nom_1331,Prenom_1331,Analyste,Informatique,12,66.67,50.0,faible
+212,Nom_212,Prenom_212,Analyste,Informatique,10,66.7,40.0,faible
+463,Nom_463,Prenom_463,RH,Informatique,8,66.75,62.5,faible
+1064,Nom_1064,Prenom_1064,Developpeur,Data & Analytics,4,66.75,75.0,faible
+101,Nom_101,Prenom_101,Finance,Finance,12,66.83,58.3,faible
+112,Nom_112,Prenom_112,Developpeur,Ventes,12,66.83,66.7,faible
+295,Nom_295,Prenom_295,Manager,Data & Analytics,12,66.83,33.3,faible
+1425,Nom_1425,Prenom_1425,Finance,Marketing,9,66.89,55.6,faible
+1229,Nom_1229,Prenom_1229,Finance,Finance,11,66.91,27.3,faible
+698,Nom_698,Prenom_698,RH,Marketing,12,67.0,50.0,faible
+990,Nom_990,Prenom_990,RH,Service Client,12,67.08,33.3,faible
+1264,Nom_1264,Prenom_1264,RH,Ventes,12,67.08,58.3,faible
+86,Nom_86,Prenom_86,Developpeur,Data & Analytics,6,67.17,50.0,faible
+999,Nom_999,Prenom_999,RH,Ventes,5,67.2,60.0,faible
+1003,Nom_1003,Prenom_1003,RH,Informatique,9,67.22,66.7,faible
+464,Nom_464,Prenom_464,Analyste,Ressources Humaines,12,67.25,41.7,faible
+746,Nom_746,Prenom_746,Developpeur,Direction Générale,12,67.25,41.7,faible
+980,Nom_980,Prenom_980,Manager,Marketing,12,67.25,66.7,faible
+1161,Nom_1161,Prenom_1161,Manager,Service Client,4,67.25,75.0,faible
+1437,Nom_1437,Prenom_1437,Developpeur,Ressources Humaines,10,67.3,60.0,faible
+347,Nom_347,Prenom_347,Manager,Ressources Humaines,12,67.33,58.3,faible
+1464,Nom_1464,Prenom_1464,Finance,Juridique,12,67.33,58.3,faible
+118,Nom_118,Prenom_118,Analyste,Marketing,11,67.36,54.5,faible
+489,Nom_489,Prenom_489,Manager,Direction Générale,8,67.38,50.0,faible
+531,Nom_531,Prenom_531,Analyste,Informatique,12,67.42,66.7,faible
+611,Nom_611,Prenom_611,Manager,Juridique,12,67.42,66.7,faible
+791,Nom_791,Prenom_791,Analyste,Service Client,12,67.42,58.3,faible
+1342,Nom_1342,Prenom_1342,Analyste,Ressources Humaines,12,67.42,25.0,faible
+178,Nom_178,Prenom_178,Manager,Juridique,4,67.5,25.0,faible
+517,Nom_517,Prenom_517,RH,Finance,12,67.5,16.7,faible
+706,Nom_706,Prenom_706,Finance,Finance,12,67.5,58.3,faible
+1143,Nom_1143,Prenom_1143,Developpeur,Juridique,12,67.58,50.0,faible
+612,Nom_612,Prenom_612,Finance,Opérations,5,67.6,20.0,faible
+629,Nom_629,Prenom_629,Finance,Marketing,5,67.6,40.0,faible
+846,Nom_846,Prenom_846,Manager,Direction Générale,5,67.6,40.0,faible
+1182,Nom_1182,Prenom_1182,Analyste,Ressources Humaines,5,67.6,60.0,faible
+1027,Nom_1027,Prenom_1027,Manager,Direction Générale,8,67.63,50.0,faible
+251,Nom_251,Prenom_251,Developpeur,Data & Analytics,12,67.67,33.3,faible
+1380,Nom_1380,Prenom_1380,Manager,Juridique,9,67.67,44.4,faible
+1493,Nom_1493,Prenom_1493,Manager,Ressources Humaines,12,67.67,58.3,faible
+664,Nom_664,Prenom_664,Finance,Service Client,10,67.7,40.0,faible
+486,Nom_486,Prenom_486,Analyste,Finance,12,67.75,66.7,faible
+1262,Nom_1262,Prenom_1262,Analyste,Service Client,12,67.75,41.7,faible
+1147,Nom_1147,Prenom_1147,Finance,Juridique,10,67.8,30.0,faible
+954,Nom_954,Prenom_954,Developpeur,Ventes,11,67.82,54.5,faible
+806,Nom_806,Prenom_806,Analyste,Data & Analytics,12,67.83,66.7,faible
+1166,Nom_1166,Prenom_1166,RH,Service Client,12,67.83,66.7,faible
+60,Nom_60,Prenom_60,RH,Direction Générale,9,67.89,66.7,faible
+40,Nom_40,Prenom_40,Manager,Opérations,12,67.92,25.0,faible
+385,Nom_385,Prenom_385,Manager,Data & Analytics,12,67.92,41.7,faible
+863,Nom_863,Prenom_863,Finance,Data & Analytics,12,67.92,66.7,faible
+1023,Nom_1023,Prenom_1023,Developpeur,Data & Analytics,12,67.92,83.3,faible
+1363,Nom_1363,Prenom_1363,Finance,Juridique,12,67.92,50.0,faible
+34,Nom_34,Prenom_34,Analyste,Direction Générale,7,68.0,28.6,faible
+962,Nom_962,Prenom_962,Analyste,Ressources Humaines,7,68.0,57.1,faible
+1323,Nom_1323,Prenom_1323,Analyste,Data & Analytics,6,68.0,50.0,faible
+1209,Nom_1209,Prenom_1209,Analyste,Ventes,12,68.08,50.0,faible
+1320,Nom_1320,Prenom_1320,Developpeur,Juridique,12,68.08,41.7,faible
+1426,Nom_1426,Prenom_1426,Manager,Finance,9,68.11,55.6,faible
+1486,Nom_1486,Prenom_1486,RH,Service Client,7,68.14,42.9,faible
+1002,Nom_1002,Prenom_1002,Finance,Finance,12,68.17,75.0,faible
+304,Nom_304,Prenom_304,Finance,Finance,5,68.2,80.0,faible
+253,Nom_253,Prenom_253,Manager,Opérations,12,68.25,50.0,faible
+705,Nom_705,Prenom_705,Finance,Service Client,12,68.25,25.0,faible
+925,Nom_925,Prenom_925,RH,Ventes,12,68.25,25.0,faible
+1042,Nom_1042,Prenom_1042,Developpeur,Juridique,12,68.25,25.0,faible
+284,Nom_284,Prenom_284,Analyste,Informatique,7,68.29,57.1,faible
+725,Nom_725,Prenom_725,Manager,Ventes,7,68.29,28.6,faible
+1333,Nom_1333,Prenom_1333,RH,Opérations,7,68.29,42.9,faible
+336,Nom_336,Prenom_336,Analyste,Direction Générale,10,68.3,50.0,faible
+3,Nom_3,Prenom_3,Manager,Ressources Humaines,12,68.33,58.3,faible
+76,Nom_76,Prenom_76,Finance,Juridique,12,68.33,16.7,faible
+344,Nom_344,Prenom_344,RH,Juridique,12,68.33,50.0,faible
+430,Nom_430,Prenom_430,RH,Data & Analytics,12,68.33,66.7,faible
+1131,Nom_1131,Prenom_1131,Finance,Ventes,12,68.33,33.3,faible
+928,Nom_928,Prenom_928,Finance,Marketing,10,68.4,40.0,faible
+30,Nom_30,Prenom_30,RH,Finance,12,68.42,75.0,faible
+114,Nom_114,Prenom_114,Finance,Juridique,12,68.42,83.3,faible
+655,Nom_655,Prenom_655,Developpeur,Service Client,12,68.42,50.0,faible
+817,Nom_817,Prenom_817,Analyste,Marketing,12,68.42,50.0,faible
+697,Nom_697,Prenom_697,Manager,Data & Analytics,7,68.43,57.1,faible
+1173,Nom_1173,Prenom_1173,Finance,Ventes,7,68.43,28.6,faible
+599,Nom_599,Prenom_599,Finance,Informatique,9,68.44,55.6,faible
+10,Nom_10,Prenom_10,Manager,Ventes,12,68.5,50.0,faible
+1020,Nom_1020,Prenom_1020,Analyste,Data & Analytics,6,68.5,33.3,faible
+804,Nom_804,Prenom_804,Manager,Ventes,7,68.57,28.6,faible
+51,Nom_51,Prenom_51,Developpeur,Data & Analytics,12,68.58,25.0,faible
+608,Nom_608,Prenom_608,RH,Direction Générale,12,68.58,50.0,faible
+635,Nom_635,Prenom_635,Developpeur,Juridique,12,68.58,50.0,faible
+894,Nom_894,Prenom_894,Finance,Service Client,12,68.58,66.7,faible
+1381,Nom_1381,Prenom_1381,Finance,Marketing,12,68.58,50.0,faible
+185,Nom_185,Prenom_185,RH,Data & Analytics,12,68.67,91.7,faible
+471,Nom_471,Prenom_471,RH,Opérations,12,68.67,50.0,faible
+733,Nom_733,Prenom_733,RH,Data & Analytics,12,68.67,50.0,faible
+321,Nom_321,Prenom_321,RH,Ressources Humaines,12,68.75,25.0,faible
+391,Nom_391,Prenom_391,Finance,Service Client,12,68.75,41.7,faible
+452,Nom_452,Prenom_452,RH,Marketing,12,68.75,58.3,faible
+927,Nom_927,Prenom_927,Analyste,Direction Générale,12,68.75,33.3,faible
+1349,Nom_1349,Prenom_1349,RH,Juridique,12,68.75,58.3,faible
+792,Nom_792,Prenom_792,Manager,Finance,10,68.8,50.0,faible
+1268,Nom_1268,Prenom_1268,RH,Finance,6,68.83,83.3,faible
+48,Nom_48,Prenom_48,RH,Data & Analytics,7,68.86,57.1,faible
+741,Nom_741,Prenom_741,Analyste,Informatique,12,68.92,50.0,faible
+821,Nom_821,Prenom_821,Developpeur,Ventes,12,68.92,33.3,faible
+885,Nom_885,Prenom_885,Developpeur,Service Client,12,68.92,66.7,faible
+1099,Nom_1099,Prenom_1099,Finance,Ventes,12,68.92,50.0,faible
+158,Nom_158,Prenom_158,Manager,Finance,10,69.0,20.0,faible
+210,Nom_210,Prenom_210,Developpeur,Opérations,10,69.0,80.0,faible
+219,Nom_219,Prenom_219,Developpeur,Ventes,4,69.0,25.0,faible
+484,Nom_484,Prenom_484,RH,Direction Générale,12,69.0,75.0,faible
+558,Nom_558,Prenom_558,Finance,Marketing,11,69.0,36.4,faible
+780,Nom_780,Prenom_780,RH,Marketing,5,69.0,40.0,faible
+1368,Nom_1368,Prenom_1368,Manager,Juridique,5,69.0,80.0,faible
+387,Nom_387,Prenom_387,Finance,Ressources Humaines,12,69.08,50.0,faible
+431,Nom_431,Prenom_431,RH,Informatique,12,69.08,25.0,faible
+738,Nom_738,Prenom_738,Manager,Ressources Humaines,11,69.09,36.4,faible
+16,Nom_16,Prenom_16,RH,Direction Générale,8,69.13,25.0,faible
+405,Nom_405,Prenom_405,Finance,Data & Analytics,7,69.14,71.4,faible
+1308,Nom_1308,Prenom_1308,RH,Data & Analytics,7,69.14,14.3,faible
+309,Nom_309,Prenom_309,Developpeur,Service Client,12,69.17,41.7,faible
+836,Nom_836,Prenom_836,RH,Direction Générale,12,69.17,33.3,faible
+481,Nom_481,Prenom_481,Finance,Data & Analytics,4,69.25,50.0,faible
+868,Nom_868,Prenom_868,Manager,Service Client,12,69.25,33.3,faible
+1082,Nom_1082,Prenom_1082,Analyste,Direction Générale,12,69.25,41.7,faible
+1411,Nom_1411,Prenom_1411,Analyste,Ressources Humaines,12,69.25,41.7,faible
+987,Nom_987,Prenom_987,RH,Direction Générale,12,69.33,41.7,faible
+887,Nom_887,Prenom_887,RH,Opérations,5,69.4,80.0,faible
+231,Nom_231,Prenom_231,RH,Juridique,12,69.42,25.0,faible
+952,Nom_952,Prenom_952,RH,Service Client,12,69.42,75.0,faible
+449,Nom_449,Prenom_449,Manager,Service Client,9,69.44,33.3,faible
+574,Nom_574,Prenom_574,Manager,Ventes,11,69.55,36.4,faible
+1058,Nom_1058,Prenom_1058,Manager,Marketing,12,69.58,33.3,faible
+1175,Nom_1175,Prenom_1175,Finance,Data & Analytics,12,69.58,58.3,faible
+1492,Nom_1492,Prenom_1492,Finance,Service Client,12,69.58,50.0,faible
+269,Nom_269,Prenom_269,Analyste,Ressources Humaines,8,69.63,37.5,faible
+211,Nom_211,Prenom_211,Developpeur,Informatique,12,69.67,33.3,faible
+384,Nom_384,Prenom_384,Manager,Opérations,12,69.67,25.0,faible
+419,Nom_419,Prenom_419,RH,Marketing,12,69.67,58.3,faible
+651,Nom_651,Prenom_651,Finance,Ventes,12,69.67,66.7,faible
+986,Nom_986,Prenom_986,Developpeur,Opérations,12,69.67,41.7,faible
+1033,Nom_1033,Prenom_1033,RH,Juridique,12,69.67,50.0,faible
+1069,Nom_1069,Prenom_1069,Analyste,Juridique,12,69.67,50.0,faible
+1328,Nom_1328,Prenom_1328,Developpeur,Direction Générale,12,69.67,50.0,faible
+1387,Nom_1387,Prenom_1387,Finance,Ressources Humaines,12,69.67,41.7,faible
+1428,Nom_1428,Prenom_1428,Manager,Ventes,12,69.67,41.7,faible
+259,Nom_259,Prenom_259,RH,Service Client,10,69.7,60.0,faible
+192,Nom_192,Prenom_192,Finance,Marketing,4,69.75,50.0,faible
+252,Nom_252,Prenom_252,Developpeur,Data & Analytics,12,69.75,50.0,faible
+293,Nom_293,Prenom_293,Manager,Juridique,8,69.75,37.5,faible
+1221,Nom_1221,Prenom_1221,Manager,Informatique,8,69.75,62.5,faible
+88,Nom_88,Prenom_88,Analyste,Marketing,12,69.83,33.3,faible
+216,Nom_216,Prenom_216,Finance,Opérations,12,69.83,41.7,faible
+1443,Nom_1443,Prenom_1443,Manager,Ressources Humaines,12,69.83,50.0,faible
+422,Nom_422,Prenom_422,Manager,Juridique,12,69.92,41.7,faible
+830,Nom_830,Prenom_830,Developpeur,Ventes,12,69.92,33.3,faible
+1067,Nom_1067,Prenom_1067,Analyste,Informatique,12,69.92,25.0,faible
+1462,Nom_1462,Prenom_1462,Developpeur,Direction Générale,12,69.92,58.3,faible

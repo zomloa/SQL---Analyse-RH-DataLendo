@@ -1,0 +1,11 @@
+﻿rang,nom_departement,embauches_total,part_des_embauches_pct,e2019,e2020,e2021,e2022,e2023,embauches_moyennes_par_an
+1,Ressources Humaines,164,10.9,47,22,37,34,24,32.8
+2,Juridique,161,10.7,24,35,45,29,28,32.2
+3,Informatique,159,10.6,26,25,36,39,33,31.8
+3,Ventes,159,10.6,31,35,29,37,27,31.8
+5,Data & Analytics,152,10.1,23,42,34,21,32,30.4
+6,Marketing,150,10.0,27,23,34,35,31,30.0
+6,Opérations,150,10.0,30,29,26,32,33,30.0
+8,Finance,139,9.3,26,28,29,30,26,27.8
+9,Service Client,136,9.1,23,23,31,36,23,27.2
+10,Direction Générale,130,8.7,23,26,30,24,27,26.0

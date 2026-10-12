@@ -1,0 +1,11 @@
+﻿nom_departement,nb_actifs,salaire_moyen_actifs,salaire_min,salaire_max,salaire_moyen_tous_employes
+Finance,125,3107.0,915,4935,3052.0
+Direction Générale,112,3099.0,811,4980,3058.0
+Service Client,123,3046.0,871,4938,3036.0
+Juridique,141,2985.0,875,4988,2951.0
+Informatique,140,2958.0,802,4999,2989.0
+Ventes,144,2929.0,818,4980,2925.0
+Ressources Humaines,149,2887.0,926,4982,2868.0
+Data & Analytics,134,2740.0,834,4998,2773.0
+Opérations,128,2728.0,816,4931,2782.0
+Marketing,133,2704.0,818,4906,2694.0

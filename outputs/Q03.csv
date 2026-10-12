@@ -1,0 +1,11 @@
+﻿rang,nom_departement,effectif_total_historique,departs_realises,taux_turnover_pct,departs_12_derniers_mois,effectif_actif
+1,Opérations,150,22,14.67,2,128
+2,Direction Générale,130,18,13.85,0,112
+3,Juridique,161,20,12.42,1,141
+4,Informatique,159,19,11.95,4,140
+5,Data & Analytics,152,18,11.84,3,134
+6,Marketing,150,17,11.33,2,133
+7,Finance,139,14,10.07,3,125
+8,Service Client,136,13,9.56,0,123
+9,Ventes,159,15,9.43,5,144
+10,Ressources Humaines,164,15,9.15,3,149

@@ -1,0 +1,5 @@
+﻿categorie_performance,nb_employes,pct_employes,score_moyen,taux_objectifs_pct,salaire_moyen,dont_partis
+faible,251,16.7,67.25,48.8,2985.0,23
+moyen,852,56.8,74.0,51.0,2920.0,71
+élevé,345,23.0,80.82,51.5,2865.0,25
+non évalué (<4 évals),52,3.5,74.41,46.7,2653.0,52

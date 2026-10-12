@@ -1,0 +1,11 @@
+﻿rang_global,nom_departement,score_moyen_trimestriel,rang_moyen_par_trimestre,meilleur_rang,pire_rang,amplitude_scores
+1,Opérations,74.87,4.42,1,10,4.11
+2,Finance,74.83,4.58,1,9,3.21
+3,Service Client,74.8,4.5,1,10,3.5
+4,Data & Analytics,74.68,4.92,1,9,3.74
+5,Ressources Humaines,74.47,5.42,1,10,4.3
+6,Juridique,74.34,6.17,3,9,2.46
+7,Informatique,74.34,5.5,1,10,4.47
+8,Ventes,74.2,6.25,1,10,3.68
+9,Direction Générale,74.17,6.5,2,10,3.31
+10,Marketing,73.77,6.75,1,10,5.75

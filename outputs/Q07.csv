@@ -1,0 +1,11 @@
+﻿rang,id_employe,nom,prenom,poste,nom_departement,score_moyen_3t,objectifs_atteints_sur_3
+1,1156,Nom_1156,Prenom_1156,RH,Ressources Humaines,97.33,2
+2,1009,Nom_1009,Prenom_1009,Analyste,Data & Analytics,96.0,1
+3,536,Nom_536,Prenom_536,Finance,Ventes,95.0,2
+4,424,Nom_424,Prenom_424,Analyste,Opérations,95.0,1
+5,549,Nom_549,Prenom_549,Analyste,Ventes,94.67,1
+6,852,Nom_852,Prenom_852,Analyste,Marketing,94.67,1
+7,1366,Nom_1366,Prenom_1366,RH,Opérations,94.67,1
+8,1490,Nom_1490,Prenom_1490,Finance,Marketing,94.33,1
+9,1466,Nom_1466,Prenom_1466,Analyste,Direction Générale,94.0,3
+10,280,Nom_280,Prenom_280,Analyste,Service Client,94.0,2

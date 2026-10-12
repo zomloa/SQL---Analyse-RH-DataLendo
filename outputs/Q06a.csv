@@ -1,0 +1,121 @@
+﻿trimestre,nom_departement,nb_evaluations,score_moyen,rang_trimestre
+2022-T1,Finance,81,76.22,1
+2022-T1,Direction Générale,72,75.6,2
+2022-T1,Juridique,99,75.46,3
+2022-T1,Informatique,84,75.35,4
+2022-T1,Marketing,83,73.64,5
+2022-T1,Service Client,77,73.34,6
+2022-T1,Data & Analytics,96,72.81,7
+2022-T1,Ventes,94,72.73,8
+2022-T1,Opérations,80,72.3,9
+2022-T1,Ressources Humaines,102,72.14,10
+2022-T2,Data & Analytics,99,75.45,1
+2022-T2,Informatique,91,75.45,2
+2022-T2,Ventes,107,75.4,3
+2022-T2,Service Client,85,74.89,4
+2022-T2,Ressources Humaines,110,74.43,5
+2022-T2,Juridique,104,74.28,6
+2022-T2,Direction Générale,79,74.05,7
+2022-T2,Marketing,93,73.97,8
+2022-T2,Finance,90,73.69,9
+2022-T2,Opérations,85,73.28,10
+2022-T3,Ressources Humaines,117,75.89,1
+2022-T3,Opérations,95,75.65,2
+2022-T3,Ventes,116,75.36,3
+2022-T3,Data & Analytics,106,75.06,4
+2022-T3,Finance,94,74.71,5
+2022-T3,Service Client,96,74.6,6
+2022-T3,Juridique,112,74.21,7
+2022-T3,Marketing,103,73.69,8
+2022-T3,Informatique,100,73.58,9
+2022-T3,Direction Générale,84,73.07,10
+2022-T4,Finance,102,76.35,1
+2022-T4,Data & Analytics,108,76.15,2
+2022-T4,Opérations,100,75.28,3
+2022-T4,Ressources Humaines,124,75.26,4
+2022-T4,Informatique,110,75.01,5
+2022-T4,Service Client,104,74.72,6
+2022-T4,Juridique,123,74.11,7
+2022-T4,Ventes,123,73.05,8
+2022-T4,Marketing,107,72.83,9
+2022-T4,Direction Générale,87,72.75,10
+2023-T1,Finance,109,76.41,1
+2023-T1,Opérations,108,75.37,2
+2023-T1,Informatique,121,75.31,3
+2023-T1,Ventes,129,74.91,4
+2023-T1,Service Client,109,74.48,5
+2023-T1,Data & Analytics,116,74.18,6
+2023-T1,Juridique,125,73.98,7
+2023-T1,Marketing,117,73.31,8
+2023-T1,Ressources Humaines,134,72.57,9
+2023-T1,Direction Générale,94,72.29,10
+2023-T2,Marketing,119,75.25,1
+2023-T2,Finance,116,74.3,2
+2023-T2,Service Client,112,74.07,3
+2023-T2,Direction Générale,105,73.87,4
+2023-T2,Juridique,131,73.6,5
+2023-T2,Opérations,113,73.56,6
+2023-T2,Informatique,131,73.37,7
+2023-T2,Ressources Humaines,142,73.06,8
+2023-T2,Data & Analytics,129,72.97,9
+2023-T2,Ventes,133,72.43,10
+2023-T3,Service Client,114,76.27,1
+2023-T3,Data & Analytics,137,76.03,2
+2023-T3,Opérations,120,76.0,3
+2023-T3,Direction Générale,113,75.23,4
+2023-T3,Ventes,136,74.87,5
+2023-T3,Juridique,136,74.35,6
+2023-T3,Ressources Humaines,149,74.04,7
+2023-T3,Finance,121,73.23,8
+2023-T3,Informatique,138,72.3,9
+2023-T3,Marketing,127,71.31,10
+2023-T4,Informatique,146,76.07,1
+2023-T4,Finance,128,75.61,2
+2023-T4,Ressources Humaines,155,75.43,3
+2023-T4,Service Client,121,75.36,4
+2023-T4,Juridique,145,75.32,5
+2023-T4,Opérations,128,75.16,6
+2023-T4,Direction Générale,117,75.11,7
+2023-T4,Ventes,145,74.71,8
+2023-T4,Data & Analytics,139,74.58,9
+2023-T4,Marketing,141,72.38,10
+2024-T1,Marketing,145,77.06,1
+2024-T1,Ressources Humaines,156,76.44,2
+2024-T1,Service Client,129,76.02,3
+2024-T1,Juridique,150,75.61,4
+2024-T1,Direction Générale,119,75.58,5
+2024-T1,Opérations,135,74.67,6
+2024-T1,Ventes,155,74.64,7
+2024-T1,Data & Analytics,143,73.91,8
+2024-T1,Finance,131,73.2,9
+2024-T1,Informatique,151,71.6,10
+2024-T2,Opérations,135,76.41,1
+2024-T2,Informatique,151,75.27,2
+2024-T2,Ressources Humaines,155,74.88,3
+2024-T2,Finance,129,74.77,4
+2024-T2,Marketing,143,74.1,5
+2024-T2,Data & Analytics,143,73.8,6
+2024-T2,Direction Générale,119,73.55,7
+2024-T2,Ventes,154,73.3,8
+2024-T2,Juridique,148,73.15,9
+2024-T2,Service Client,129,72.78,10
+2024-T3,Data & Analytics,141,76.55,1
+2024-T3,Opérations,135,75.98,2
+2024-T3,Ressources Humaines,155,75.86,3
+2024-T3,Service Client,128,75.73,4
+2024-T3,Finance,128,75.27,5
+2024-T3,Juridique,146,74.31,6
+2024-T3,Direction Générale,116,74.28,7
+2024-T3,Informatique,151,74.11,8
+2024-T3,Marketing,141,73.28,9
+2024-T3,Ventes,154,72.94,10
+2024-T4,Ventes,154,76.11,1
+2024-T4,Service Client,127,75.39,2
+2024-T4,Opérations,135,74.76,3
+2024-T4,Data & Analytics,140,74.73,4
+2024-T4,Direction Générale,115,74.67,5
+2024-T4,Informatique,148,74.67,6
+2024-T4,Marketing,140,74.38,7
+2024-T4,Finance,128,74.18,8
+2024-T4,Juridique,144,73.71,9
+2024-T4,Ressources Humaines,153,73.7,10
